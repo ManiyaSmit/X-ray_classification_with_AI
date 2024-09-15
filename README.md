@@ -1,1 +1,1 @@
-# X-ray_classification_with_AI
+# X-ray_classification_using_AI
